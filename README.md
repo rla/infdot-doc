@@ -16,7 +16,7 @@ infdot-doc -i doc.md -o doc.pdf
 ## Installation
 
 ```
-npm install git+https://rla@github.com/rla/infdot-doc.git -g
+npm install git+https://github.com/rla/infdot-doc.git -g
 ```
 
 ## Markdown subset

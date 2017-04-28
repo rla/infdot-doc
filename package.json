@@ -11,5 +11,8 @@
   },
   "scripts": {
     "lint": "eslint index.js lib/"
+  },
+  "bin": {
+    "infdot-doc": "index.js"
   }
 }
