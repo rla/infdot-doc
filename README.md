@@ -13,6 +13,14 @@ HTML comments.
 infdot-doc -i doc.md -o doc.pdf
 ```
 
+## Example
+
+ * Input file: [example/example.md][input].
+ * Output file: [example/output.pdf][output].
+
+[input]:https://raw.githubusercontent.com/rla/infdot-doc/master/example/example.md
+[output]:https://raw.githubusercontent.com/rla/infdot-doc/master/example/example.pdf
+
 ## Installation
 
 ```
