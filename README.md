@@ -62,7 +62,7 @@ Document setting are specified using the HTML comment syntax:
 
 Available options are:
 
- * Size - page [size][sizes];
+ * Size - page [size][sizes] (default A4);
  * FontSize - font size in units (default 12);
  * TitleFontSize - heading font size (default 25);
  * Author - document author name;
